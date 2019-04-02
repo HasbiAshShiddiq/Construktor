@@ -1,0 +1,7 @@
+D:\18.11.2252\#5\Constructor\Constuctor\Constuctor\bin\Debug\Constuctor.exe.config
+D:\18.11.2252\#5\Constructor\Constuctor\Constuctor\bin\Debug\Constuctor.exe
+D:\18.11.2252\#5\Constructor\Constuctor\Constuctor\bin\Debug\Constuctor.pdb
+D:\18.11.2252\#5\Constructor\Constuctor\Constuctor\obj\Debug\Constuctor.csprojAssemblyReference.cache
+D:\18.11.2252\#5\Constructor\Constuctor\Constuctor\obj\Debug\Constuctor.csproj.CoreCompileInputs.cache
+D:\18.11.2252\#5\Constructor\Constuctor\Constuctor\obj\Debug\Constuctor.exe
+D:\18.11.2252\#5\Constructor\Constuctor\Constuctor\obj\Debug\Constuctor.pdb
